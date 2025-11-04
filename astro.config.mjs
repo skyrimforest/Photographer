@@ -12,14 +12,13 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						{ label: 'Example Guide', slug: 'guides/example' },
-						{ label: 'Example Guide233', slug: 'guides/example' },
+						{ label: '课程介绍', slug: 'guides/introduction' },
 						{ label: '阶段00课程大纲', slug: 'guides/outline' },
-						{ label: '阶段01技术基础', slug: 'guides/outline' },
-						{ label: '阶段02构图基础', slug: 'guides/outline' },
-						{ label: '阶段03光影风格', slug: 'guides/outline' },
-						{ label: '阶段04色彩表达', slug: 'guides/outline' },
-						{ label: '阶段05个人风格', slug: 'guides/outline' },
+						{ label: '阶段01技术基础', slug: 'guides/techbasic' },
+						{ label: '阶段02构图基础', slug: 'guides/visualbasic' },
+						{ label: '阶段03光影风格', slug: 'guides/shadowexpression' },
+						{ label: '阶段04色彩表达', slug: 'guides/color' },
+						{ label: '阶段05个人风格', slug: 'guides/personaltheme' },
 					],
 				},
 				{
